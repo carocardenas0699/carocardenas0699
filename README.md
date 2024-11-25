@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Carolina</h1>
+<h1 align="center">✨ Hi, I'm Carolina ✨</h1>
 
-<h3 align="center">Data Scientist from Colombia!</h3>
+I am a Data Scientist with a strong interest in Machine Learning and Data Engineering. My passion lies in uncovering trends and patterns to provide insights into underlying dynamics and enable the development of impactful and effective solutions.
 
 # 💫 About Me:
 
@@ -9,6 +9,13 @@
   
 </a>
 
+- :colombia: I'm from Colombia, born in Cali (Salsa dancing capital of the world :woman_dancing:)
+- 🎓 Besides studying Data Science, I'm a Civil Engineer specialized in transportation systems.
+- 🌍 Captivated by cultural exchange, I am fluent in 3 languages (Spanish, English, Italian) and plan to start learning French soon.
+- 🔍 I aim to contribute to innovative, data-driven projects  My academic projects have equipped me with a strong foundation for collaboration, adapting to dynamic environments, and solving challenging problems.
+-  🏙 Currently working on personal projects. Feel free to contact me for any learning or working opportunities!
+
+# 📊 About My Repos:
 <p align="center">
 <a href="https://github.com/carocardenas0699">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carocardenas0699&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20Stats&theme=radical&hide_border=true&bg_color=1F222E"/>
@@ -69,7 +76,6 @@
   <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
   <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white"></a>
   <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-05bdce?style=for-the-badge&logo=canva&logoColor=white"></a>
-  <a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></a>
 </p>
 
 <h3 align="center">Project Management and Collaboration Tools</h3>
