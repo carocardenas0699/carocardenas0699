@@ -1,30 +1,38 @@
-<h1 align="center">✨ Hi, I'm Carolina ✨</h1>
+<h1 align="center">✨ ʜɪ, ɪ'ᴍ ᴄᴀʀᴏʟɪɴᴀ ✨</h1>
 
 I am a Data Scientist with a strong interest in Machine Learning and Data Engineering. My passion lies in uncovering trends and patterns to provide insights into underlying dynamics and enable the development of impactful and effective solutions.
 
-# 💫 About Me:
+# 💫 ᴀʙᴏᴜᴛ ᴍᴇ:
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
   
 </a>
 
-- :colombia: I'm from Colombia, born in Cali (Salsa dancing capital of the world :woman_dancing:)
-- 🎓 Besides studying Data Science, I'm a Civil Engineer specialized in transportation systems.
+- 🏙 I'm from Colombia, born in Cali (Salsa dancing capital of the world 💃)
+- 🎓 Besides studying Data Science, I'm a Civil Engineer specialized in transportation systems (and a baker 🍰)
 - 🌍 Captivated by cultural exchange, I am fluent in 3 languages (Spanish, English, Italian) and plan to start learning French soon.
 - 🔍 I aim to contribute to innovative, data-driven projects  My academic projects have equipped me with a strong foundation for collaboration, adapting to dynamic environments, and solving challenging problems.
--  🏙 Currently working on personal projects. Feel free to contact me for any learning or working opportunities!
+- 📈 Currently working on personal projects. Feel free to contact me for any learning or working opportunities!
 
-# 📊 About My Repos:
+# 📊 ᴀʙᴏᴜᴛ ᴍʏ ʀᴇᴘᴏꜱ:
 <p align="center">
 <a href="https://github.com/carocardenas0699">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carocardenas0699&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20Stats&theme=radical&hide_border=true&bg_color=1F222E"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=carocardenas0699&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20Stats&theme=radical&hide_border=true&bg_color=1F222E"/>
 
 <a href="https://github.com/carocardenas0699">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carocardenas0699&theme=radical&hide_border=true&bg_color=1F222E&hide_langs_below=1" height="220px"/>
   </a>
+</p>
 
-# 💻 Tech Stack:
+# 🏆 ᴛᴏᴘ ᴘʀᴏᴊᴇᴄᴛꜱ:
+
+[![Preview PF](https://github-readme-stats.vercel.app/api/pin/?username=carocardenas0699&repo=PF-Data-Bootcamp&theme=radical&hide_border=true&bg_color=1F222E)](https://github.com/carocardenas0699/PF-Data-Bootcamp)
+[![Preview P1](https://github-readme-stats.vercel.app/api/pin/?username=carocardenas0699&repo=PI01-Machine-Learning&theme=radical&hide_border=true&bg_color=1F222E)](https://github.com/carocardenas0699/PI01-Machine-Learning)
+[![Preview P2](https://github-readme-stats.vercel.app/api/pin/?username=carocardenas0699&repo=PI02-Data-Analysis&theme=radical&hide_border=true&bg_color=1F222E)](https://github.com/carocardenas0699/PI02-Data-Analysis)
+
+
+# 💻 ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ:
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -80,7 +88,7 @@ I am a Data Scientist with a strong interest in Machine Learning and Data Engine
 
 <h3 align="center">Project Management and Collaboration Tools</h3>
 <p align="center">
-  <a href="#"><img alt="Microsoft Project" src="https://img.shields.io/badge/Microsoft_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white"></a>
+  <a href="#"><img alt="Microsoft Project" src="https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white"></a>
   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
   <a href="#"><img alt="Clickup" src="https://img.shields.io/badge/ClickUp-f712d4?style=for-the-badge&logo=clickup&logoColor=white"></a>
   <a href="#"><img alt="Slack" src="https://img.shields.io/badge/-Slack-491349?style=for-the-badge&logo=Slack&logoColor=white"></a>
@@ -89,13 +97,13 @@ I am a Data Scientist with a strong interest in Machine Learning and Data Engine
 
 <h3 align="center">Otros Recursos para Desarrollo y Documentación</h3>
 <p align="center">
-  <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-209e63?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+  <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/MS_Excel-209e63?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
   <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
-  <a href="#"><img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
+  <a href="#"><img alt="Microsoft Word" src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
 </p>
 
-# 🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝
+# 🤝 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 🤝
 
 <div align="center">
  <a href="https://www.linkedin.com/in/carolina-cardenas0699/" target="_blank">
@@ -107,7 +115,7 @@ I am a Data Scientist with a strong interest in Machine Learning and Data Engine
 </a>
 
 <a href="mailto:caro.cardenas1@hotmail.com" target="_blank">
-<img scr="https://img.shields.io/badge/Email-F05032" alt="Hotmail" style="margin-bottom:  5px;">
+<img scr="https://img.shields.io/badge/Email-F05032" alt="Hotmail" color=black style="margin-bottom:  5px;">
 </a>
 
 </div>
