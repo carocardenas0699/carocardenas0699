@@ -1,4 +1,6 @@
-<h1 align="center">✨ ʜɪ, ɪ'ᴍ ᴄᴀʀᴏʟɪɴᴀ ✨</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8&text=✨%20ʜɪ,%20ɪ'ᴍ%20ᴄᴀʀᴏʟɪɴᴀ%20✨"/>
+</p>
 
 I am a Data Scientist with a strong interest in Machine Learning and Data Engineering. My passion lies in uncovering trends and patterns to provide insights into underlying dynamics and enable the development of impactful and effective solutions.
 
@@ -122,5 +124,5 @@ I am a Data Scientist with a strong interest in Machine Learning and Data Engine
 
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=65&section=footer"/>
 </p>
