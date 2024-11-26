@@ -14,7 +14,7 @@ I am a Data Scientist with a strong interest in Machine Learning and Data Engine
 - 🏙 I'm from Colombia, born in Cali (Salsa dancing capital of the world 💃)
 - 🎓 Besides studying Data Science, I'm a Civil Engineer specialized in transportation systems (and a baker 🍰)
 - 🌍 Captivated by cultural exchange, I am fluent in 3 languages (Spanish, English, Italian) and plan to start learning French soon.
-- 🔍 I aim to contribute to innovative, data-driven projects  My academic projects have equipped me with a strong foundation for collaboration, adapting to dynamic environments, and solving challenging problems.
+- 🔍 I aim to contribute to innovative, data-driven projects that leverage analytical skills to generate impactful insights and solutions.
 - 📈 Currently working on personal projects. Feel free to contact me for any learning or working opportunities!
 
 # 📊 ᴀʙᴏᴜᴛ ᴍʏ ʀᴇᴘᴏꜱ:
