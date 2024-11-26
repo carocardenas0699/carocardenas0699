@@ -114,8 +114,8 @@ I am a Data Scientist with a strong interest in Machine Learning and Data Engine
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="mailto:caro.cardenas1@hotmail.com" target="_blank">
-<img scr="https://img.shields.io/badge/Email-F05032" alt="Hotmail" color=black style="margin-bottom:  5px;">
+<a href="mailto:caro.cardenas@hotmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=hotmail&logoColor=white&color=black" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 </div>
