@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8&text=✨%20ʜɪ,%20ɪ'ᴍ%20ᴄᴀʀᴏʟɪɴᴀ%20✨"/>
 </p>
 
-I am a Data Scientist with a strong interest in Machine Learning and Data Engineering. My passion lies in uncovering trends and patterns to provide insights into underlying dynamics and enable the development of impactful and effective solutions.
+I am a **Data Scientist** with a strong interest in **Machine Learning and Data Engineering**. My passion lies in uncovering trends and patterns to provide insights into underlying dynamics and enable the development of impactful and effective solutions.
 
 # 💫 ᴀʙᴏᴜᴛ ᴍᴇ:
 
@@ -11,7 +11,7 @@ I am a Data Scientist with a strong interest in Machine Learning and Data Engine
   
 </a>
 
-- 🏙 I'm from Colombia, born in Cali (Salsa dancing capital of the world 💃)
+- 🏙 I'm from Cali, Colombia. (Salsa dancing capital of the world 💃)
 - 🎓 Besides studying Data Science, I'm a Civil Engineer specialized in transportation systems (and a baker 🍰)
 - 🌍 Captivated by cultural exchange, I am fluent in 3 languages (Spanish, English, Italian) and plan to start learning French soon.
 - 🔍 I aim to contribute to innovative, data-driven projects that leverage analytical skills to generate impactful insights and solutions.
