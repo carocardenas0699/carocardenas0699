@@ -42,12 +42,15 @@ I am a **Data Scientist** with a strong interest in **Machine Learning and Data 
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-276DC3?style=for-the-badge&logo=python&logoColor=white&color=f7c93e"/></a>
   <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&color=2165b7"></a>
   <a href="#"><img alt="Visual Basic" src="https://img.shields.io/badge/VISUAL_BASIC-276DC3?style=for-the-badge&logo=visualbasic&logoColor=blue&color=5b3690"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/JAVA-F7931E?style=for-the-badge&logo=java&logoColor=blue&color=F7931E"></a>
 </p>
 
 <h3 align="center">Libraries and Frameworks</h3>
 <p align="center">
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>   
+  <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Jax" src="https://img.shields.io/badge/JAX-e8105e?style=for-the-badge&logo=jax&logoColor=white"></a>
+  <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/SYMPY-e8105e?style=for-the-badge&logo=sympy&logoColor=white"></a>
   <a href="https://scikit-learn.org/" target="_blank"><img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
   <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Scipy-276DC3?style=for-the-badge&logo=scipy&logoColor=white&color=007ec6"></a>
   <a href="#"><img alt="Statsmodels" src="https://img.shields.io/badge/Statsmodels-276DC3?style=for-the-badge&logo=statsmodels&logoColor=blue&color=3d4eaf"></a>
@@ -57,7 +60,6 @@ I am a **Data Scientist** with a strong interest in **Machine Learning and Data 
   <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-276DC3?style=for-the-badge&logo=matplotlib&logoColor=blue&color=59cfa8"></a>
   <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-276DC3?style=for-the-badge&logo=seaborn&logoColor=blue&color=81a5c0"></a>
   <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-ef3672?style=for-the-badge&logo=plotly&logoColor=white"></a>
-  <a href="#"><img alt="Spark" src="https://img.shields.io/badge/Spark-db571b?style=for-the-badge&logo=apachespark&logoColor=white"></a>
   <a href="#"><img alt="Dask" src="https://img.shields.io/badge/Dask-e8105e?style=for-the-badge&logo=dask&logoColor=white"></a>
 </p>
 
@@ -71,7 +73,7 @@ I am a **Data Scientist** with a strong interest in **Machine Learning and Data 
 <h3 align="center">Development Environments and Tools</h3>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> </a>
-  <a href="#"><img alt="VIM" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"></a>
+  <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/ECLIPSE-F7931E.svg?&style=for-the-badge&logo=eclipse&logoColor=white"></a>
   <a href="#"><img alt="Colab" src="https://img.shields.io/badge/-Google%20Colab-05122A?style=for-the-badge&logo=google-colab&logoColor=F9AB00"></a>
   <a href="#"><img alt="git" src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/ELanza-48" target="_blank"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
