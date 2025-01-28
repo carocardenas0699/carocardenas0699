@@ -99,7 +99,7 @@ I am a **Data Scientist** with a strong interest in **Machine Learning and Data 
     
 </p>
 
-<h3 align="center">Otros Recursos para Desarrollo y Documentación</h3>
+<h3 align="center">Other Resources for Development and Documentation</h3>
 <p align="center">
   <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/MS_Excel-209e63?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
